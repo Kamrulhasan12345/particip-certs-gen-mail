@@ -5,7 +5,7 @@
   "main": "makePDF.js",
   "dependencies": {
     "csvtojson": "^2.0.10",
-    "labelmake": "^2.0.17",
+    "labelmake": "^2.0.23",
     "yarn": "^1.22.10"
   },
   "devDependencies": {},
